@@ -1,0 +1,5 @@
+1. Text-editor that highlights words with germanic roots and, upon hovering or clicking, suggests latinate-based alternatives. 
+2. Insurance Inventory tracker. Allows you to catalogue all owned items, while also providing space to store purchase price, serial number, pic of receipt, estimated value, etc. 
+3. A "reading log" where you can input goals for books or pages to read, track your progress, and review the books you read. Shows graphs displaying data of stuff like pages read per day, etc. 
+4. Story-plotting website. Where you can write down ideas, plot, characters, etc. You can keep them as simple or as fleshed-out as you want. 
+5. A good to-do list. They don't exist. It would have pages for overall to-do's, day-to-day to-do's, urgent to-do's, etc. Would send reminders to your email and phone of things that must be done (like paying bills).
