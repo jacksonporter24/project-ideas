@@ -1,0 +1,11 @@
+Story-plotting website. Where you can write down ideas, plot, characters, etc. You can keep them as simple or as fleshed-out as you want. 
+
+MVP: 
+
+1. Users can create account
+2. Users can "Create New Book / Series"
+3. Inside of books or series, users can create Characters and Worlds.
+4. Inside of series, users can create multiple books. 
+5. Inside of books, users can create chapters and input text including the plot. 
+6. Users can add titles to books and series, names to characters and worlds, and their traits. 
+7. Users can navigate between all books and series. 
